@@ -1,0 +1,1 @@
+App is using [SpaceX API](https://docs.spacexdata.com) for data with [GraphQL](https://graphql.org/) and [React](https://reactjs.org) for frontend. [Frontend repo](https://github.com/Adiis/spacex_launch_missions_client)
